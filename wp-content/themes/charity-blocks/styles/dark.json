@@ -1,0 +1,87 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Dark",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#000000",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#fd573b",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#ff4b89",
+                "name": "Ternary",
+                "slug": "ternary"
+            },
+            {
+                "color": "#ffdad4",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#f9f9ff",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#8b89a3",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#fafafa",
+                "name": "Body Text",
+                "slug": "body-text"
+            },
+            {
+                "color": "#0c0c0e",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#fff",
+                "name": "White Color",
+                "slug": "white-color"
+            },
+            {
+                "color": "#181818",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Foreground",
+                "slug": "foreground"
+            },
+            {
+                "color":"#0c0c0e",
+                "name": "Footer Bg",
+                "slug": "footer-Bg"
+            },
+            {
+                "color":"#393939",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#3f4041",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            },
+            {
+                "color":"#857e7e",
+                "name": "Home Shadow Color",
+                "slug": "home-shadow-color"
+            }
+                
+        ]
+    }
+  }
+}

@@ -1,0 +1,1016 @@
+# Copyright (C) 2024 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Charity Blocks 2.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/charity-blocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-29T16:56:36+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: charity-blocks\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+#: functions.php:108
+msgid "Charity Blocks"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/free-ngo-charity-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Charity Blocks is a user-friendly and visually appealing template designed specifically for charitable organizations, fundraising, donations, community, outreach, advocacy, volunteering, social cause, philanthropy, humanitarian, support, event management, awareness, campaigns and non-profits. It serves as a virtual foundation for creating a professional and engaging website without requiring advanced technical skills. With a clean and modern design, Charity Blocks focuses on simplicity and ease of use. The theme incorporates various customizable blocks or sections that allow users to effortlessly organize and present their content. These blocks cover essential elements such as donation forms, event calendars, and mission statements. One standout feature is its responsive design, ensuring that the website looks great and functions seamlessly across different devices, including smartphones and tablets. This is crucial for reaching a broader audience and facilitating easy navigation. Charity Blocks emphasizes storytelling by providing space for impactful images and compelling narratives, helping organizations effectively communicate their mission and connect with supporters emotionally. The theme also includes built-in tools for accepting online donations securely, streamlining the fundraising process. The integrated event calendar makes it simple to promote and manage upcoming activities, fostering community engagement. The Charity Blocks theme is a user-friendly, visually appealing, and feature-rich solution tailored for charities and non-profits, enabling them to establish a compelling online presence, connect with their audience, and further their noble causes. Demo: https://trial.ovationthemes.com/ngo-charity-donation/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: custom-setting.php:17
+msgid "Theme Settings"
+msgstr ""
+
+#: custom-setting.php:34
+msgid "Animation Settings"
+msgstr ""
+
+#: custom-setting.php:41
+msgid "Enable Animations"
+msgstr ""
+
+#: functions.php:109
+msgid "For information and detailed instructions, check out our theme documentation."
+msgstr ""
+
+#: functions.php:112
+#: inc/dashboard/dashboard.php:84
+msgid "Live Demo"
+msgstr ""
+
+#: functions.php:113
+#: inc/dashboard/dashboard.php:85
+msgid "Buy Now"
+msgstr ""
+
+#: functions.php:114
+#: inc/dashboard/dashboard.php:5
+msgid "Begin Installation"
+msgstr ""
+
+#: inc/customizer/customizer.php:15
+#: inc/customizer/customizer.php:23
+msgid "CHARITY BLOCKS PREMIUM"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+#: inc/dashboard/dashboard.php:23
+msgid "https://www.ovationthemes.com/products/ngo-charity-wordpress-theme"
+msgstr ""
+
+#: inc/customizer/customizer.php:41
+#: inc/customizer/customizer.php:65
+msgid "UPGRADE CHARITY BLOCKS PREMIUM"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+#: inc/dashboard/dashboard.php:90
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+#: inc/dashboard/dashboard.php:91
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/customizer/customizer.php:50
+#: inc/dashboard/dashboard.php:92
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/customizer/customizer.php:51
+#: inc/dashboard/dashboard.php:93
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+#: inc/dashboard/dashboard.php:94
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+#: inc/dashboard/dashboard.php:95
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:54
+#: inc/dashboard/dashboard.php:96
+msgid "Cross Browser Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:55
+#: inc/dashboard/dashboard.php:97
+msgid "Detailed Documentation Included"
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+#: inc/dashboard/dashboard.php:98
+msgid "WPML Compatible (Translation Ready)"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+#: inc/dashboard/dashboard.php:99
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+#: inc/dashboard/dashboard.php:100
+msgid "Full Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+#: inc/dashboard/dashboard.php:101
+msgid "10+ Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+#: inc/dashboard/dashboard.php:102
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+#: inc/dashboard/dashboard.php:103
+msgid "Supper Fast"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:14
+msgid "https://wordpress.org/support/theme/charity-blocks/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:17
+msgid "https://wordpress.org/support/theme/charity-blocks/reviews/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:20
+msgid "https://trial.ovationthemes.com/ngo-charity-donation/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:26
+msgid "https://trial.ovationthemes.com/docs/ot-ngo-charity-pro-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:29
+msgid "https://trial.ovationthemes.com/docs/ot-ngo-charity-donation-free-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:32
+msgid "Premium Charity Blocks Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:47
+msgid "Version: "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:51
+msgid "Support"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:52
+msgid "Review"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:61
+#: inc/dashboard/dashboard.php:76
+#: inc/dashboard/dashboard.php:86
+msgid "Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:66
+#: inc/dashboard/dashboard.php:68
+msgid "Edit Your Site"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:67
+msgid "Now create your website with easy drag and drop powered by gutenburg."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:70
+#: inc/dashboard/dashboard.php:72
+msgid "Visit Your Site"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:71
+msgid "To check your website click here"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:74
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:75
+msgid "Check the theme documentation to easily set up your website."
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:64
+#: patterns/blog-grid-layout.php:56
+#: patterns/blog-left-sidebar.php:62
+#: patterns/blog-right-sidebar.php:58
+msgid "Sorry, no post exist..."
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:14
+msgid "give a hand to make"
+msgstr ""
+
+#: patterns/banner.php:18
+msgid "Help the children. make big changes and help the world"
+msgstr ""
+
+#: patterns/banner.php:22
+#: patterns/latest-news.php:28
+#: patterns/our-causes.php:28
+msgid "every day we bring hope to millions of children in the worlds ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+msgstr ""
+
+#: patterns/banner.php:27
+#: patterns/header.php:94
+#: patterns/our-causes.php:81
+#: patterns/our-causes.php:131
+#: patterns/our-causes.php:181
+#: patterns/our-causes.php:233
+#: patterns/our-causes.php:283
+#: patterns/our-causes.php:333
+msgid "Donate Now"
+msgstr ""
+
+#: patterns/blog-grid-layout.php
+msgctxt "Pattern title"
+msgid "Blog Grid Layout"
+msgstr ""
+
+#: patterns/blog-left-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: patterns/blog-right-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:19
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:75
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:83
+msgid "New in store"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:12
+msgid "do your bit by donation to the mission : education to all"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "Make Donation"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Our Causes"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "All Causes"
+msgstr ""
+
+#: patterns/footer.php:57
+msgid "Medical"
+msgstr ""
+
+#: patterns/footer.php:61
+msgid "Food &amp; Water"
+msgstr ""
+
+#: patterns/footer.php:65
+msgid "Electricity"
+msgstr ""
+
+#: patterns/footer.php:72
+msgid "Support Us"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Become A Volunteer"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "Rate our Organization"
+msgstr ""
+
+#: patterns/footer.php:85
+msgid "Make A Donation"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Becone A Partner"
+msgstr ""
+
+#: patterns/footer.php:96
+msgid "Information"
+msgstr ""
+
+#: patterns/footer.php:101
+#: patterns/latest-news.php:15
+msgid "Latest News"
+msgstr ""
+
+#: patterns/footer.php:105
+msgid "Upcoming Events"
+msgstr ""
+
+#: patterns/footer.php:109
+msgid "Our Volunteers"
+msgstr ""
+
+#: patterns/footer.php:113
+msgid "Litracy Program"
+msgstr ""
+
+#: patterns/footer.php:120
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:129
+#: patterns/header.php:40
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer.php:139
+#: patterns/header.php:24
+msgid "(+91-1800-1234-1234)"
+msgstr ""
+
+#: patterns/footer.php:144
+msgid "** For any other donation contact our support desk"
+msgstr ""
+
+#: patterns/footer.php:155
+msgid "Charity Blocks WordPress Theme"
+msgstr ""
+
+#: patterns/footer.php:159
+msgid "Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:159
+msgid "Ovation Themes"
+msgstr ""
+
+#: patterns/footer.php:159
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:159
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:20
+msgid "Call us for enquiry"
+msgstr ""
+
+#: patterns/header.php:36
+msgid "Mail us for enquiry"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:57
+msgid "There is no post found"
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/more-post.php:11
+msgid "More Articles &amp; Posts"
+msgstr ""
+
+#: patterns/our-causes.php
+msgctxt "Pattern title"
+msgid "Our Causes"
+msgstr ""
+
+#: patterns/our-causes.php:15
+msgid "our causes"
+msgstr ""
+
+#: patterns/our-causes.php:47
+#: patterns/our-causes.php:97
+#: patterns/our-causes.php:147
+#: patterns/our-causes.php:199
+#: patterns/our-causes.php:249
+#: patterns/our-causes.php:299
+msgid "Goal :"
+msgstr ""
+
+#: patterns/our-causes.php:51
+#: patterns/our-causes.php:101
+#: patterns/our-causes.php:151
+#: patterns/our-causes.php:203
+#: patterns/our-causes.php:253
+#: patterns/our-causes.php:303
+msgid "$50,000"
+msgstr ""
+
+#: patterns/our-causes.php:59
+#: patterns/our-causes.php:109
+#: patterns/our-causes.php:159
+#: patterns/our-causes.php:211
+#: patterns/our-causes.php:261
+#: patterns/our-causes.php:311
+msgid "Raised :"
+msgstr ""
+
+#: patterns/our-causes.php:63
+#: patterns/our-causes.php:113
+#: patterns/our-causes.php:163
+#: patterns/our-causes.php:215
+#: patterns/our-causes.php:265
+#: patterns/our-causes.php:315
+msgid "$30,000"
+msgstr ""
+
+#: patterns/our-causes.php:71
+#: patterns/our-causes.php:121
+#: patterns/our-causes.php:171
+#: patterns/our-causes.php:223
+#: patterns/our-causes.php:273
+#: patterns/our-causes.php:323
+msgid "hospiece of madina life treasures thrift shop storage needed"
+msgstr ""
+
+#: patterns/our-causes.php:75
+#: patterns/our-causes.php:125
+#: patterns/our-causes.php:175
+#: patterns/our-causes.php:227
+#: patterns/our-causes.php:277
+#: patterns/our-causes.php:327
+msgid "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: patterns/our-causes.php:346
+msgid "View more"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:64
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:47
+msgid "Related Products"
+msgstr ""
+
+#: patterns/volunteer-sec.php
+msgctxt "Pattern title"
+msgid "Volunteer Sec"
+msgstr ""
+
+#: patterns/volunteer-sec.php:13
+msgid "strategic priorities upto 2020 are"
+msgstr ""
+
+#: patterns/volunteer-sec.php:18
+msgid "become a volunteer"
+msgstr ""
+
+#: patterns/volunteer-sec.php:36
+msgid "People supported last year"
+msgstr ""
+
+#: patterns/volunteer-sec.php:48
+msgid "24+"
+msgstr ""
+
+#: patterns/volunteer-sec.php:52
+msgid "Accommodation and shelter projects"
+msgstr ""
+
+#: patterns/volunteer-sec.php:64
+msgid "60k+"
+msgstr ""
+
+#: patterns/volunteer-sec.php:68
+msgid "Marginalised People supported daily"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Ternary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "White Color"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Bg"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/blue.json
+#: styles/dark.json
+#: styles/green.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Home Shadow Color"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical primary to ternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical ternary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Ternary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to ternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to ternary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to ternary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal ternary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to ternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Banner Overlay"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
